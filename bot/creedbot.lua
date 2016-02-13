@@ -224,6 +224,7 @@ function create_config( )
     "text",
     "info",
     "bot_on_off",
+    "groupmanager",
     "welcome",
     "webshot",
     "google",
